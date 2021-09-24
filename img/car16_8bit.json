@@ -1,0 +1,14 @@
+{ "columns":2,
+ "image":"car16_8bit.bmp",
+ "imageheight":16,
+ "imagewidth":16,
+ "margin":0,
+ "name":"car16_8bit",
+ "spacing":0,
+ "tilecount":4,
+ "tiledversion":"1.7.2",
+ "tileheight":8,
+ "tilewidth":8,
+ "type":"tileset",
+ "version":"1.6"
+}

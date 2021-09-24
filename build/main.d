@@ -1,0 +1,49 @@
+main.o: /Users/wentianwang/Dropbox/GBA_ZY/ZY_project/race/source/main.c \
+ /Users/wentianwang/Dropbox/GBA_ZY/ZY_project/race/source/main.h \
+ /Users/wentianwang/Dropbox/GBA_ZY/ZY_project/race/source/main_game.h \
+ /opt/devkitpro/libtonc/include/tonc.h \
+ /opt/devkitpro/libtonc/include/tonc_types.h \
+ /opt/devkitpro/libtonc/include/tonc_memmap.h \
+ /opt/devkitpro/libtonc/include/tonc_memdef.h \
+ /opt/devkitpro/libtonc/include/tonc_bios.h \
+ /opt/devkitpro/libtonc/include/tonc_core.h \
+ /opt/devkitpro/libtonc/include/tonc_input.h \
+ /opt/devkitpro/libtonc/include/tonc_irq.h \
+ /opt/devkitpro/libtonc/include/tonc_math.h \
+ /opt/devkitpro/libtonc/include/tonc_oam.h \
+ /opt/devkitpro/libtonc/include/tonc_tte.h \
+ /opt/devkitpro/libtonc/include/tonc_surface.h \
+ /opt/devkitpro/libtonc/include/tonc_video.h \
+ /opt/devkitpro/libtonc/include/tonc_nocash.h \
+ /opt/devkitpro/libtonc/include/tonc_text.h \
+ /Users/wentianwang/Dropbox/GBA_ZY/ZY_project/race/source/metr.h \
+ /Users/wentianwang/Dropbox/GBA_ZY/ZY_project/race/source/brin.h \
+ /Users/wentianwang/Dropbox/GBA_ZY/ZY_project/race/source/welcome.h \
+ /Users/wentianwang/Dropbox/GBA_ZY/ZY_project/race/source/track_select.h \
+ /Users/wentianwang/Dropbox/GBA_ZY/ZY_project/race/source/tracks_RGB.h \
+ /Users/wentianwang/Dropbox/GBA_ZY/ZY_project/race/source/main_menu.h \
+ /Users/wentianwang/Dropbox/GBA_ZY/ZY_project/race/source/setting_menu.h
+/Users/wentianwang/Dropbox/GBA_ZY/ZY_project/race/source/main.h:
+/Users/wentianwang/Dropbox/GBA_ZY/ZY_project/race/source/main_game.h:
+/opt/devkitpro/libtonc/include/tonc.h:
+/opt/devkitpro/libtonc/include/tonc_types.h:
+/opt/devkitpro/libtonc/include/tonc_memmap.h:
+/opt/devkitpro/libtonc/include/tonc_memdef.h:
+/opt/devkitpro/libtonc/include/tonc_bios.h:
+/opt/devkitpro/libtonc/include/tonc_core.h:
+/opt/devkitpro/libtonc/include/tonc_input.h:
+/opt/devkitpro/libtonc/include/tonc_irq.h:
+/opt/devkitpro/libtonc/include/tonc_math.h:
+/opt/devkitpro/libtonc/include/tonc_oam.h:
+/opt/devkitpro/libtonc/include/tonc_tte.h:
+/opt/devkitpro/libtonc/include/tonc_surface.h:
+/opt/devkitpro/libtonc/include/tonc_video.h:
+/opt/devkitpro/libtonc/include/tonc_nocash.h:
+/opt/devkitpro/libtonc/include/tonc_text.h:
+/Users/wentianwang/Dropbox/GBA_ZY/ZY_project/race/source/metr.h:
+/Users/wentianwang/Dropbox/GBA_ZY/ZY_project/race/source/brin.h:
+/Users/wentianwang/Dropbox/GBA_ZY/ZY_project/race/source/welcome.h:
+/Users/wentianwang/Dropbox/GBA_ZY/ZY_project/race/source/track_select.h:
+/Users/wentianwang/Dropbox/GBA_ZY/ZY_project/race/source/tracks_RGB.h:
+/Users/wentianwang/Dropbox/GBA_ZY/ZY_project/race/source/main_menu.h:
+/Users/wentianwang/Dropbox/GBA_ZY/ZY_project/race/source/setting_menu.h:
